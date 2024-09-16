@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    margin: 0;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header
+{display: block;
+unicode-bidi: isolate;
+}
+
+header img {
+    width: 200px;
+    margin: 1rem;
+}
+nav{
+    background-color: aquamarine;
+    padding: 1rem;
+    border-top: 1px solid black;
+    font-size: 1rem;
+    margin-bottom: 4rem;
+}
+
+h3 {
+    color: darkgrey;
+}
+
+p {
+    font-size: 1.17em;
+    font-weight: bold;
+}
+
+article h2 {
+    border-bottom: 3px solid black;
+}
+
+article {
+    display: block;
+}
+
+main{
+    width: 50%;
+    text-align: left;
+    margin: auto;
+}
+
+div{
+    width: 50%;
+    text-align: left;
+    margin: auto;
+}
+
+h5 {
+    width: 50%;
+    text-align: left;
+    margin: auto;
+}
